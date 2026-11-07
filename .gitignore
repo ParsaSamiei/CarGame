@@ -112,3 +112,11 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# macOS finder metadata
+.DS_Store
+**/.DS_Store
+
+# Burst compiler artifacts (regenerated on build)
+*BackUpThisFolder_ButDontShipItWithYourGame/
+*BurstTopLevelDbg_*/
